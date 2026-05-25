@@ -10,7 +10,7 @@ Below is the list of projects I am building throughout the challenge:
 
 - [x] **Day 1:** Band Name Generator
       - *What I learned:* Working with variables, printing to the console, and handling user inputs.
-- [ ] **Day 2:** Tip Calculator
+- [x] **Day 2:** Tip Calculator
 - [ ] **Day 3:** Treasure Island (Choose your own adventure game)
 - [ ] **Day 4:** Rock Paper Scissors
 - [ ] **Day 5:** Password Generator
@@ -30,4 +30,4 @@ Below is the list of projects I am building throughout the challenge:
 ---
 
 ## 📊 Progress
-![Progress](https://geps.dev/progress/1) 
+![Progress](https://geps.dev/progress/2) 
