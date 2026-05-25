@@ -15,7 +15,7 @@ Below is the list of projects I am building throughout the challenge:
 - [ ] **Day 4:** Rock Paper Scissors
 - [ ] **Day 5:** Password Generator
 
-*(You can add more days here as you progress!)*
+*
 
 ---
 
