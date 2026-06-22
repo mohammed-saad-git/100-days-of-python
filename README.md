@@ -12,7 +12,7 @@ Below is the list of projects I am building throughout the challenge:
       - *What I learned:* Working with variables, printing to the console, and handling user inputs.
 - [x] **Day 2:** Tip Calculator
 - [X] **Day 3:** Treasure Island (Choose your own adventure game)
-- [ ] **Day 4:** Rock Paper Scissors
+- [x] **Day 4:** Rock Paper Scissors
 - [ ] **Day 5:** Password Generator
 
 *
@@ -30,4 +30,4 @@ Below is the list of projects I am building throughout the challenge:
 ---
 
 ## 📊 Progress
-![Progress](https://geps.dev/progress/3) 
+![Progress](https://geps.dev/progress/4) 
